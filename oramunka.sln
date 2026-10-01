@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oramunka", "oramunka\oramun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masik", "masik\masik.csproj", "{6CB7CB2D-43C5-43B6-B722-9F7422F773DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ketstzam", "ketstzam\ketstzam.csproj", "{C4A74517-8482-46B6-BF7B-FB85E9889758}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6CB7CB2D-43C5-43B6-B722-9F7422F773DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CB7CB2D-43C5-43B6-B722-9F7422F773DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CB7CB2D-43C5-43B6-B722-9F7422F773DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A74517-8482-46B6-BF7B-FB85E9889758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A74517-8482-46B6-BF7B-FB85E9889758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A74517-8482-46B6-BF7B-FB85E9889758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A74517-8482-46B6-BF7B-FB85E9889758}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
